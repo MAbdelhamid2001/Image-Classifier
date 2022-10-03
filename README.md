@@ -1,4 +1,4 @@
-# Image-Classifier
+# Image-Classifier with Command Line Application
 - That's my final project in Intro to machine learning with tensorflow Nanodegree program and was accepted succefully
 
 Can you imagine using something like a phone app that tells you the name of the flower your camera is looking at?
